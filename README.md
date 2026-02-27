@@ -5,14 +5,14 @@
   Hi, I'm <strong>Syed Amash S</strong>
 </h1>
 
-<h3>Software Developer Engineer | DSA • Java • C • Python • Backend</h3>
+<h3>SDE | DSA • Java • C • Python • Development • Networking</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a Software Developer Enginner who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    I build digital products that feel fast, intuitive, and enjoyable.
   </p>
 
   <p>
@@ -68,7 +68,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=java,c,python,typescript" />
+ <img src="https://skillicons.dev/icons?i=java,c,python,embedded" />
 <br/><br/>
 
 </td>
